@@ -14,7 +14,7 @@
       "chainId": 81,
       "currencySymbol": "JOC",
       "blockExplorerUrl": "https://explorer.japanopenchain.org",
-      "logoURI": "https://japanopenchain.org/wp-content/uploads/2021/06/JOC-logo-2023.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/joc/info/logo.png"
     }
   ],
   "additionalNetworks": [
@@ -24,7 +24,7 @@
       "chainId": 8453,
       "currencySymbol": "ETH",
       "blockExplorerUrl": "https://basescan.org",
-      "logoURI": "https://assets.coingecko.com/coins/images/30362/small/base.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png"
     },
     {
       "networkName": "Binance Smart Chain",
@@ -56,7 +56,7 @@
       "chainId": 204,
       "currencySymbol": "BNB",
       "blockExplorerUrl": "https://opbnbscan.com",
-      "logoURI": "https://assets.coingecko.com/asset_platforms/images/147/small/opbnb.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/opbnb/info/logo.png"
     },
     {
       "networkName": "Arbitrum One",
