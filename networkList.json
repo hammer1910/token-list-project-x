@@ -1,0 +1,70 @@
+{
+  "enabledNetworks": [
+    {
+      "networkName": "Ethereum Mainnet",
+      "defaultRpcUrl": "https://eth.llamarpc.com",
+      "chainId": 1,
+      "currencySymbol": "ETH",
+      "blockExplorerUrl": "https://etherscan.io",
+      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+    },
+    {
+      "networkName": "Japan Open Chain Mainnet",
+      "defaultRpcUrl": "https://rpc-1.japanopenchain.org:8545",
+      "chainId": 81,
+      "currencySymbol": "JOC",
+      "blockExplorerUrl": "https://explorer.japanopenchain.org",
+      "logoURI": "https://japanopenchain.org/wp-content/uploads/2023/06/JOC-logo-2023.png"
+    }
+  ],
+  "additionalNetworks": [
+    {
+      "networkName": "Base Mainnet",
+      "defaultRpcUrl": "https://mainnet.base.org",
+      "chainId": 8453,
+      "currencySymbol": "ETH",
+      "blockExplorerUrl": "https://basescan.org",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png"
+    },
+    {
+      "networkName": "Binance Smart Chain",
+      "defaultRpcUrl": "https://bsc-dataseed.binance.org",
+      "chainId": 56,
+      "currencySymbol": "BNB",
+      "blockExplorerUrl": "https://bscscan.com",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png"
+    },
+    {
+      "networkName": "OP Mainnet",
+      "defaultRpcUrl": "https://mainnet.optimism.io",
+      "chainId": 10,
+      "currencySymbol": "ETH",
+      "blockExplorerUrl": "https://optimistic.etherscan.io",
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png"
+    },
+    {
+      "networkName": "Polygon Mainnet",
+      "defaultRpcUrl": "https://polygon-rpc.com",
+      "chainId": 137,
+      "currencySymbol": "MATIC",
+      "blockExplorerUrl": "https://polygonscan.com",
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/small/polygon.png"
+    },
+    {
+      "networkName": "opBNB",
+      "defaultRpcUrl": "https://opbnb-mainnet-rpc.bnbchain.org",
+      "chainId": 204,
+      "currencySymbol": "BNB",
+      "blockExplorerUrl": "https://opbnbscan.com",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/opbnb/info/logo.png"
+    },
+    {
+      "networkName": "Arbitrum One",
+      "defaultRpcUrl": "https://arb1.arbitrum.io/rpc",
+      "chainId": 42161,
+      "currencySymbol": "ETH",
+      "blockExplorerUrl": "https://arbiscan.io",
+      "logoURI": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg"
+    }
+  ]
+}
